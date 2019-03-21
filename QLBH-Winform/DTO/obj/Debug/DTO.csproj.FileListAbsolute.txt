@@ -1,0 +1,6 @@
+S:\XDPMTMHPL\QLBH\QLBH\DTO\bin\Debug\DTO.dll
+S:\XDPMTMHPL\QLBH\QLBH\DTO\bin\Debug\DTO.pdb
+S:\XDPMTMHPL\QLBH\QLBH\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+S:\XDPMTMHPL\QLBH\QLBH\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+S:\XDPMTMHPL\QLBH\QLBH\DTO\obj\Debug\DTO.dll
+S:\XDPMTMHPL\QLBH\QLBH\DTO\obj\Debug\DTO.pdb

@@ -1,0 +1,12 @@
+S:\XDPMTMHPL\QLBH\QLBH\DAL\bin\Debug\DAL.dll
+S:\XDPMTMHPL\QLBH\QLBH\DAL\bin\Debug\DAL.pdb
+S:\XDPMTMHPL\QLBH\QLBH\DAL\bin\Debug\DTO.dll
+S:\XDPMTMHPL\QLBH\QLBH\DAL\bin\Debug\MySql.Data.dll
+S:\XDPMTMHPL\QLBH\QLBH\DAL\bin\Debug\DTO.pdb
+S:\XDPMTMHPL\QLBH\QLBH\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+S:\XDPMTMHPL\QLBH\QLBH\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+S:\XDPMTMHPL\QLBH\QLBH\DAL\obj\Debug\DAL.csproj.CopyComplete
+S:\XDPMTMHPL\QLBH\QLBH\DAL\obj\Debug\DAL.dll
+S:\XDPMTMHPL\QLBH\QLBH\DAL\obj\Debug\DAL.pdb
+S:\XDPMTMHPL\QLBH\QLBH\DAL\bin\Debug\Google.Protobuf.dll
+S:\XDPMTMHPL\QLBH\QLBH\DAL\bin\Debug\MySql.Data.xml

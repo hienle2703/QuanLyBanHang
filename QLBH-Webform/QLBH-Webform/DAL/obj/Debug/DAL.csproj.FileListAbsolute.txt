@@ -1,0 +1,12 @@
+F:\Lap trinh\XDPMTMHPL\Project1\QLBH-Webform\QLBH-Webform\DAL\bin\Debug\DAL.dll
+F:\Lap trinh\XDPMTMHPL\Project1\QLBH-Webform\QLBH-Webform\DAL\bin\Debug\DAL.pdb
+F:\Lap trinh\XDPMTMHPL\Project1\QLBH-Webform\QLBH-Webform\DAL\bin\Debug\DTO.dll
+F:\Lap trinh\XDPMTMHPL\Project1\QLBH-Webform\QLBH-Webform\DAL\bin\Debug\MySql.Data.dll
+F:\Lap trinh\XDPMTMHPL\Project1\QLBH-Webform\QLBH-Webform\DAL\bin\Debug\Google.Protobuf.dll
+F:\Lap trinh\XDPMTMHPL\Project1\QLBH-Webform\QLBH-Webform\DAL\bin\Debug\DTO.pdb
+F:\Lap trinh\XDPMTMHPL\Project1\QLBH-Webform\QLBH-Webform\DAL\bin\Debug\MySql.Data.xml
+F:\Lap trinh\XDPMTMHPL\Project1\QLBH-Webform\QLBH-Webform\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\Lap trinh\XDPMTMHPL\Project1\QLBH-Webform\QLBH-Webform\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Lap trinh\XDPMTMHPL\Project1\QLBH-Webform\QLBH-Webform\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\Lap trinh\XDPMTMHPL\Project1\QLBH-Webform\QLBH-Webform\DAL\obj\Debug\DAL.dll
+F:\Lap trinh\XDPMTMHPL\Project1\QLBH-Webform\QLBH-Webform\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,6 @@
+F:\Lap trinh\XDPMTMHPL\Project1\QLBH-Webform\QLBH-Webform\DTO\bin\Debug\DTO.dll
+F:\Lap trinh\XDPMTMHPL\Project1\QLBH-Webform\QLBH-Webform\DTO\bin\Debug\DTO.pdb
+F:\Lap trinh\XDPMTMHPL\Project1\QLBH-Webform\QLBH-Webform\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+F:\Lap trinh\XDPMTMHPL\Project1\QLBH-Webform\QLBH-Webform\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\Lap trinh\XDPMTMHPL\Project1\QLBH-Webform\QLBH-Webform\DTO\obj\Debug\DTO.dll
+F:\Lap trinh\XDPMTMHPL\Project1\QLBH-Webform\QLBH-Webform\DTO\obj\Debug\DTO.pdb
